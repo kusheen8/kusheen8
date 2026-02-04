@@ -1,6 +1,5 @@
-## Hi there 👋
-
-# 💫 About Me
+## Hi there 👋 💫
+# About Me
 Hi 👋 I'm Kusheen  <br>A Computer Science student learning fullstack development step by step.  <br>Currently working on projects to apply what I learn in real scenarios.  <br>Curious, consistent, and always improving.
 
 
